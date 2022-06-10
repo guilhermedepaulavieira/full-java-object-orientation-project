@@ -1,4 +1,4 @@
-package object_oriented_intro.entities;
+package object_oriented_intro.triangle.entities;
 
 public class BetterTriangle {
 

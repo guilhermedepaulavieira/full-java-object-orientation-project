@@ -1,4 +1,4 @@
-package object_oriented_intro.exercise1.program;
+package object_oriented_intro.exercise1.application;
 
 import java.util.Locale;
 import java.util.Scanner;

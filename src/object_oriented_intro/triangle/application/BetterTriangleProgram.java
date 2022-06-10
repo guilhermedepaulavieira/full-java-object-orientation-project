@@ -1,9 +1,9 @@
-package object_oriented_intro.program;
+package object_oriented_intro.triangle.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import object_oriented_intro.entities.BetterTriangle;
+import object_oriented_intro.triangle.entities.BetterTriangle;
 
 public class BetterTriangleProgram {
 
