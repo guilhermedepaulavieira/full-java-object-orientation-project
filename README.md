@@ -2,8 +2,8 @@
 Completing Full Java from scratch to professional (object-oriented programming + project)
 
 
-// ## Concluded
-// [Certificate](https://drive.google.com/file/d/1Laybv2J9wl2FNgn6sgii0qkA2WB79tib/view?usp=sharing) 
+/*// ## Concluded
+ [Certificate](https://drive.google.com/file/d/1Laybv2J9wl2FNgn6sgii0qkA2WB79tib/view?usp=sharing) 
 
 ## linkedin Profile
 [Guilherme de Paula Vieira](https://www.linkedin.com/in/guilherme-de-paula-vieira/)
@@ -47,6 +47,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 23 - Project: Web services with Spring Boot and JPA
 24 - Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
 
+*/
 
 
 
