@@ -1,4 +1,4 @@
-package constructorThisOverload.exercise.entities;
+package constructor_this_overload.exercise.entities;
 
 public class Account {
 

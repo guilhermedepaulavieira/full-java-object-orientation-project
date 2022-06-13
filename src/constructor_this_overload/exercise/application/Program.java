@@ -1,9 +1,9 @@
-package constructorThisOverload.exercise.application;
+package constructor_this_overload.exercise.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import constructorThisOverload.exercise.entities.Account;
+import constructor_this_overload.exercise.entities.Account;
 
 public class Program {
 

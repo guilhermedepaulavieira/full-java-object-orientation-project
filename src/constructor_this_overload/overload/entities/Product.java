@@ -1,4 +1,4 @@
-package constructorThisOverload.overload.entities;
+package constructor_this_overload.overload.entities;
 
 public class Product {
 

@@ -1,9 +1,9 @@
-package constructorThisOverload.encapsulation.application;
+package constructor_this_overload.encapsulation.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import constructorThisOverload.encapsulation.entities.Product;
+import constructor_this_overload.encapsulation.entities.Product;
 
 
 

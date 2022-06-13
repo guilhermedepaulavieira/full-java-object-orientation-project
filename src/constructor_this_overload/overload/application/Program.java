@@ -1,9 +1,9 @@
-package constructorThisOverload.overload.application;
+package constructor_this_overload.overload.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import constructorThisOverload.overload.entities.Product;
+import constructor_this_overload.overload.entities.Product;
 
 public class Program {
 
