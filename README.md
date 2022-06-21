@@ -11,7 +11,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 3 - Conditional Structure
 4 - Repetitive Structures
 5 - Other basic Java topics {
-	 bitwise operators 
+	bitwise operators 
 	+ Interesting functions for String
 	+ Comments in Java (basic)
 	+ Functions (syntax)
@@ -21,7 +21,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 8 - Memory behavior, arrays, lists {
 	Reference types vs. value types
 	+ Vectors 
-    + Boxing, unboxing e wrapper class
+  	+ Boxing, unboxing e wrapper class
 	+ For each loop
 	+ List
 	+ Matrix }
@@ -43,4 +43,3 @@ Completing Full Java from scratch to professional (object-oriented programming +
 22 - Java EE - Object-Relational Mapping with JPA / Hibernate
 23 - Project: Web services with Spring Boot and JPA
 24 - Project: Restful API with Spring Boot and MongoDB database 
-=======
