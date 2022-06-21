@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java Programming Logic
 Completing Full Java from scratch to professional (object-oriented programming + project)
 
