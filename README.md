@@ -1,20 +1,17 @@
 # Java Programming Logic
 Completing Full Java from scratch to professional (object-oriented programming + project)
 
-
-// ## Concluded
-// [Certificate](https://drive.google.com/file/d/1Laybv2J9wl2FNgn6sgii0qkA2WB79tib/view?usp=sharing) 
-
 ## linkedin Profile
 [Guilherme de Paula Vieira](https://www.linkedin.com/in/guilherme-de-paula-vieira/)
 
 ## Module
+~~~
 1 - Programming Concepts
 2 - Sequential Structure
 3 - Conditional Structure
 4 - Repetitive Structures
 5 - Other basic Java topics {
-	bitwise operators 
+	 bitwise operators 
 	+ Interesting functions for String
 	+ Comments in Java (basic)
 	+ Functions (syntax)
@@ -24,7 +21,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 8 - Memory behavior, arrays, lists {
 	Reference types vs. value types
 	+ Vectors 
-	+ Boxing, unboxing e wrapper class
+    + Boxing, unboxing e wrapper class
 	+ For each loop
 	+ List
 	+ Matrix }
@@ -45,12 +42,5 @@ Completing Full Java from scratch to professional (object-oriented programming +
 21 - Project: Desktop application with JavaFX and MySQL database with JDBC
 22 - Java EE - Object-Relational Mapping with JPA / Hibernate
 23 - Project: Web services with Spring Boot and JPA
-24 - Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
-
-
-
-
-
-
-
-
+24 - Project: Restful API with Spring Boot and MongoDB database 
+    (web services + NoSQL)
