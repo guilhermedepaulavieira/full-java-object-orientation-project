@@ -42,8 +42,4 @@ Completing Full Java from scratch to professional (object-oriented programming +
 21 - Project: Desktop application with JavaFX and MySQL database with JDBC
 22 - Java EE - Object-Relational Mapping with JPA / Hibernate
 23 - Project: Web services with Spring Boot and JPA
-<<<<<<< HEAD
 24 - Project: Restful API with Spring Boot and MongoDB database 
-=======
-24 - Project: Restful API with Spring Boot and MongoDB database 
->>>>>>> b6ad09349f02f02fbbaff5429f9559bd7879e3da
