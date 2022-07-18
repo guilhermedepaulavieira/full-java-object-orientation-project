@@ -6,40 +6,42 @@ Completing Full Java from scratch to professional (object-oriented programming +
 
 ## Module
 ~~~
-1 - Programming Concepts
-2 - Sequential Structure
-3 - Conditional Structure
-4 - Repetitive Structures
-5 - Other basic Java topics {
+1 - Introduction
+2 - Programming concept
+3 - Introduction to java language
+4 - Sequential Structure
+5 - Conditional Structure
+6 - Repetitive Structures
+7 - Other basic Java topics {
 	bitwise operators 
 	+ Interesting functions for String
 	+ Comments in Java (basic)
 	+ Functions (syntax)
 	+ another }
-6 - Introduction to Object Oriented Programming
-7 - Constructors, this word, overload, encapsulation
-8 - Memory behavior, arrays, lists {
+8 - Introduction to Object Oriented Programming
+9 - Constructors, this word, overload, encapsulation
+10 - Memory behavior, arrays, lists {
 	Reference types vs. value types
 	+ Vectors 
   	+ Boxing, unboxing e wrapper class
 	+ For each loop
 	+ List
 	+ Matrix }
-9 - Special topics in Java {
+11 - Special topics in Java {
 	Working with dates - Date
 	+ Manipulating a Date with Calendar }
-10 - leveling over Git and Github
-11 - Enumerations, composition
-12 - Inheritance and polymorphism
-13 - Exception handling
-14 - Project: Chess game system
-15 - Working with files
-16 - Interfaces
-17 - Generics, Set, Map
-18 - Functional programming and lambda expressions
-19 - Database Access with JDBC
-20 - Graphical interface with JavaFX
-21 - Project: Desktop application with JavaFX and MySQL database with JDBC
-22 - Java EE - Object-Relational Mapping with JPA / Hibernate
-23 - Project: Web services with Spring Boot and JPA
-24 - Project: Restful API with Spring Boot and MongoDB database 
+12 - leveling over Git and Github
+13 - Enumerations, composition
+14 - Inheritance and polymorphism
+15 - Exception handling
+16 - [Project: Chess game system](https://github.com/guilhermedepaulavieira/chess-system-java)
+17 - Working with files
+18 - Interfaces
+19 - Generics, Set, Map
+20 - Functional programming and lambda expressions
+21 - Database Access with JDBC
+22 - Graphical interface with JavaFX
+23 - Project: Desktop application with JavaFX and MySQL database with JDBC
+24 - Java EE - Object-Relational Mapping with JPA / Hibernate
+25 - Project: Web services with Spring Boot and JPA
+26 - Project: Restful API with Spring Boot and MongoDB database 
