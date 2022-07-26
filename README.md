@@ -4,6 +4,9 @@ Completing Full Java from scratch to professional (object-oriented programming +
 ## linkedin Profile
 [Guilherme de Paula Vieira](https://www.linkedin.com/in/guilherme-de-paula-vieira/)
 
+## Project github
+[Github: Chess game system](https://github.com/guilhermedepaulavieira/chess-system-java/)
+
 ## Module
 ~~~
 1 - Introduction
@@ -34,7 +37,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 13 - Enumerations, composition
 14 - Inheritance and polymorphism
 15 - Exception handling
-16 - [Project: Chess game system](https://github.com/guilhermedepaulavieira/chess-system-java)
+16 - Project: Chess game system
 17 - Working with files
 18 - Interfaces
 19 - Generics, Set, Map
