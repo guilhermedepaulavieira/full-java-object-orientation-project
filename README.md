@@ -7,10 +7,11 @@ Completing Full Java from scratch to professional (object-oriented programming +
 ## Project github
 [Github: Chess game system](https://github.com/guilhermedepaulavieira/chess-system-java/)
 
-[Database Access with JDBC](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)
+[Java EE - Object-Relational Mapping with JPA / Hibernate](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)
+
 
 ## Module
-~~~
+
 1 - Introduction
 2 - Programming concept
 3 - Introduction to java language
@@ -44,9 +45,9 @@ Completing Full Java from scratch to professional (object-oriented programming +
 18 - Interfaces
 19 - Generics, Set, Map
 20 - Functional programming and lambda expressions
-21 - Database Access with JDBC
+[21 - Database Access with JDBC](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)
 22 - Graphical interface with JavaFX
 23 - Project: Desktop application with JavaFX and MySQL database with JDBC
-24 - Java EE - Object-Relational Mapping with JPA / Hibernate
+[24 - Java EE - Object-Relational Mapping with JPA / Hibernate](https://github.com/guilhermedepaulavieira/studyjpamaven)
 25 - Project: Web services with Spring Boot and JPA
 26 - Project: Restful API with Spring Boot and MongoDB database 
