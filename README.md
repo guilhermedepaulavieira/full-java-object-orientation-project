@@ -16,7 +16,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 3 - Introduction to java language  
 4 - [Sequential Structure](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/sequential_structure)   
 5 - [Conditional Structure](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/conditioned_structure)
-6 - [Repetitive Structures](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/repetitive_structure) 
+6 - [Repetitive Structures](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/repetitive_structure)  
 7 - Other basic Java topics {
 - bitwise operators  
 - Interesting functions for String  
@@ -24,7 +24,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 - Functions (syntax)  
 - another }  
 
-8 - [Introduction to Object Oriented Programming](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/object_oriented_intro) 
+8 - [Introduction to Object Oriented Programming](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/object_oriented_intro)  
 9 - [Constructors, this word, overload, encapsulation](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/constructor_this_overload)  
 10 - [Memory behavior, arrays, lists](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/memory_behavior_array_list) {  
 - Reference types vs. value types  
@@ -33,6 +33,7 @@ Completing Full Java from scratch to professional (object-oriented programming +
 - For each loop  
 - List  
 - Matrix }  
+
 11 - [Special topics in Java](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/specialTopicInJava) {  
 - Working with dates - Date  
 - Manipulating a Date with Calendar }  
@@ -48,6 +49,6 @@ Completing Full Java from scratch to professional (object-oriented programming +
 20 - [Functional programming and lambda expressions](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/functionalProgramAndLambdaExpression)  
 21 - [Database Access with JDBC](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)  
 22 - [Java EE - Object-Relational Mapping with JPA / Hibernate](https://github.com/guilhermedepaulavieira/studyjpamaven)  
-23 - [Project: Web services with Spring Boot and JPA / Hibernate](https://github.com/guilhermedepaulavieira/workshop-springboot-jpa)
+23 - [Project: Web services with Spring Boot and JPA / Hibernate](https://github.com/guilhermedepaulavieira/workshop-springboot-jpa)  
 24 - Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
 25 - Graphical interface with JavaFX   
