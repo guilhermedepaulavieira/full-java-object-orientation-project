@@ -1,4 +1,4 @@
-# Java Programming Logic  
+# Full Java Object Orientation + Project
 Completing Full Java from scratch to professional (object-oriented programming + project)  
 
 ## linkedin Profile
