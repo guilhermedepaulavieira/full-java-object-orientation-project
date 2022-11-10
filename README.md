@@ -9,15 +9,16 @@ Completing Full Java from scratch to professional (object-oriented programming +
 [Database Access with JDBC](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)  
 [Java EE - Object-Relational Mapping with JPA / Hibernate](https://github.com/guilhermedepaulavieira/studyjpamaven)  
 [Web services with Spring Boot and JPA / Hibernate](https://github.com/guilhermedepaulavieira/workshop-springboot-jpa)  
-  
+[Restful API with Spring Boot and MongoDB database (web services + NoSQL)](https://github.com/guilhermedepaulavieira/workshop-spring-boot-mongodb)  
+
 ## Module
 1 - Introduction  
 2 - Programming concept  
 3 - Introduction to java language  
 4 - [Sequential Structure](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/sequential_structure)   
-5 - [Conditional Structure](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/conditioned_structure)
+5 - [Conditional Structure](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/conditioned_structure)  
 6 - [Repetitive Structures](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/repetitive_structure)  
-7 - Other basic Java topics {
+7 - [Other basic Java topics](https://github.com/guilhermedepaulavieira/full-java-object-orientation-project/tree/master/src/another) {
 - bitwise operators  
 - Interesting functions for String  
 - Comments in Java (basic)  
@@ -50,5 +51,4 @@ Completing Full Java from scratch to professional (object-oriented programming +
 21 - [Database Access with JDBC](https://github.com/guilhermedepaulavieira/demo-dao-jdbc)  
 22 - [Java EE - Object-Relational Mapping with JPA / Hibernate](https://github.com/guilhermedepaulavieira/studyjpamaven)  
 23 - [Project: Web services with Spring Boot and JPA / Hibernate](https://github.com/guilhermedepaulavieira/workshop-springboot-jpa)  
-24 - Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
-25 - Graphical interface with JavaFX   
+24 - [Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)](https://github.com/guilhermedepaulavieira/workshop-spring-boot-mongodb)  
